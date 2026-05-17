@@ -1,0 +1,38 @@
+.mono
+{
+    font-family: monospace;
+}
+
+.margin1
+{
+    margin-right: 1000pt;
+}
+
+.divout h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.padding1
+{
+    padding: 10pt;
+}
+
+.divout
+{
+    outline: 3pt solid black;
+}
+
+button
+{
+    background: none;
+    border: none;
+}
+
+.btnblue
+{
+    outline: 3pt solid rgb(76, 112, 255);
+    padding: 5pt;
+    padding-inline: 10pt;
+    color: rgb(76, 112, 255);
+}
