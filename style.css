@@ -1,6 +1,11 @@
 .mono
 {
-    font-family: monospace;
+    font-family: Menlo, monospace;
+}
+
+body
+{
+    font-family: 'Arimo', sans-serif;
 }
 
 .margin1
@@ -27,6 +32,7 @@ button
 {
     background: none;
     border: none;
+    font-family: inherit;
 }
 
 .btnblue
