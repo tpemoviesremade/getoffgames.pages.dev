@@ -72,6 +72,7 @@ img {
     text-decoration: none;
     font-weight: 700;
     transition: transform 160ms ease, background 160ms ease, color 160ms ease;
+    font-family: Menlo, monospace;
 }
 
 .site-nav a:hover,
@@ -89,6 +90,10 @@ img {
     background: var(--card-bg);
     outline: 3px solid var(--border-color);
     border-radius: 0;
+}
+
+.section-card.no-bottom-padding {
+    padding-bottom: 0;
 }
 
 .section-card h1,
